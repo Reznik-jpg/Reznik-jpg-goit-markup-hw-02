@@ -64,6 +64,7 @@ a {
   background-color: #2e2f42;
 }
 .hero-title {
+  font-weight: 700;
   font-size: 56px;
   line-height: 1.08;
   letter-spacing: 0.02em;
@@ -71,6 +72,7 @@ a {
   color: #fff;
 }
 .hero-button {
+  font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
@@ -79,4 +81,8 @@ a {
   border-radius: 4px;
   width: 169px;
   height: 56px;
+}
+.hero-button:hover,
+.hero-button:focus {
+  background-color: #404bbf;
 }
