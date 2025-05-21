@@ -102,7 +102,6 @@ gap: 0px;
 }
 
 .text-all {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -143,7 +142,6 @@ gap: 0px;
   background-color: #ffffff;
 }
 .text-footer {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
