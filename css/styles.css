@@ -51,26 +51,32 @@ gap: 0px;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+
 .nav-link:hover,
 .nav-link:focus {
   color: #404bbf;
 }
+
 .contacts {
   font-style: normal;
 }
+
 .contacts-link {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
+
 .contacts-link:hover,
 .contacts-link:focus {
   color: #404bbf;
 }
+
 .hero {
   background-color: #2e2f42;
 }
+
 .hero-title {
   font-size: 56px;
   line-height: 1.1;
@@ -78,6 +84,7 @@ gap: 0px;
   text-align: center;
   color: #fff;
 }
+
 .hero-button {
   font-weight: 500;
   font-size: 16px;
@@ -117,4 +124,23 @@ gap: 0px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+
+.team {
+  background: #f4f4fd;
+}
+
+.title-team,
+.title-portfol {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+
+.team-item {
+  background-color: #ffffff;
 }
