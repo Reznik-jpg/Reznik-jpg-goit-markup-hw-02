@@ -79,7 +79,7 @@ gap: 0px;
 
 .hero-title {
   font-size: 56px;
-  line-height: 1.1;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
@@ -95,6 +95,7 @@ gap: 0px;
   border-radius: 4px;
   width: 169px;
   height: 56px;
+  cursor: pointer;
 }
 
 .hero-button:hover,
@@ -134,7 +135,7 @@ gap: 0px;
 .title-portfol {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -143,4 +144,11 @@ gap: 0px;
 
 .team-item {
   background-color: #ffffff;
+}
+.text-footer {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
 }
